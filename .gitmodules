@@ -1,0 +1,6 @@
+[submodule "letshack-hackanova"]
+	path = letshack-hackanova
+	url = git@github.com:FOZERY/letshack-hackanova.git
+[submodule "hackanova"]
+	path = hackanova
+	url = git@github.com:kirill221100/hackanova.git
